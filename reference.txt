@@ -1,0 +1,11 @@
+https://www.nltk.org/data.html
+
+https://stackoverflow.com/questions/26494211/extracting-text-from-a-pdf-file-using-pdfminer-in-python
+
+https://www.thebalancecareers.com/list-of-information-technology-it-skills-2062410
+
+https://www.thebalancecareers.com/technical-skills-list-2063775
+
+https://towardsdatascience.com/tf-idf-for-document-ranking-from-scratch-in-python-on-real-world-dataset-796d339a4089
+
+https://stackabuse.com/python-for-nlp-creating-tf-idf-model-from-scratch/

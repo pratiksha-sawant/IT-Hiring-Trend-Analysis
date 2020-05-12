@@ -1,0 +1,1929 @@
+Technology 
+Glossary for 
+Recruiters
+
+A Guide to Tech Roles,  
+Skills, and Languages
+
+Contents
+
+Introduction .......................................................... 3
+
+Popular Tech-Related Roles ................................ 4
+
+Programming Languages  
+and Technical Skills .............................................. 7
+
+Which Tech Roles Require Which Skills............ 17
+
+About Gild ........................................................... 20
+
+Technology Glossary for Recruiters  //  2
+
+Introduction
+
+The plain truth is this: the tech 
+world changes fast. As a recruiter 
+competing for the best possible 
+talent, how do you manage to stay 
+on top of all the different types of 
+tech roles, programming languages, 
+and which tech roles require which 
+language?
+
+Recruiters oftentimes are 
+salespeople at heart and have 
+inarguable relationship development 
+skills. However, they may lack a 
+degree of technical knowledge that 
+could help them better perform as 
+tech recruiters. This is why we’ve 
+developed this tech glossary. Now, 
+recruiters of any level of expertise in 
+any industry will be able to have a 
+solid starting point in the tech world. 
+This guide will help you understand:
+
+∙ Popular Tech Roles: what 
+
+they’re called and what they do
+
+∙ Programming Languages 
+
+and Technical Skills: 
+definitions with a brief 
+description of each
+
+∙ Which Tech Roles Require 
+Which Skills: stop wondering 
+and start searching with greater 
+efficiency
+
+In a tight tech talent market, this 
+glossary can help you communicate 
+more effectively with your clients 
+and the teams that you’re recruiting 
+for, as well as with potential 
+candidates. The words you learn 
+in this glossary may seem like just 
+a few simple terms, but they can 
+empower you to talk to developers 
+in their own language and fill high-
+demand roles with top-notch talent 
+faster than ever.
+
+  //  3
+
+Popular 
+Tech-
+Related 
+Roles
+
+If one of your hiring managers 
+came to you and said, “I need a 
+mobile developer,” where would 
+you begin your search? As the 
+way we communicate continues to 
+evolve, so do tech-related roles. For 
+example, today’s mobile developer 
+might only need to be proficient 
+in iOS and Android platforms, but 
+if the Windows phone catches on, 
+there’s a new and growing niche in 
+the mobile development field.
+
+This section of our tech glossary 
+gives you a list of today’s most 
+common tech-related roles - the 
+ones you’ll likely be tasked with 
+filling. We’ll offer a brief overview of 
+each role’s function (though it will 
+vary by company and circumstance), 
+and then a list of the most in-
+demand programming languages 
+and skills in today’s tech landscape. 
+Finally, we’ll match those roles with 
+the programming and development 
+skills most commonly required. 
+You’ll have everything you need to 
+better understand tech roles, each 
+role’s key technical skills, and how 
+these match up with your recruiting 
+efforts.
+
+  //  4
+
+B
+
+Back End Developer  
+Focuses on the source code 
+and other behind-the scenes 
+programming that makes the 
+software, website, or other 
+application function correctly
+
+Big Data Engineer 
+Builds large-scale data 
+processing systems; Big Data 
+Engineers organize and process 
+larger-than-average data sets 
+using specialized tools
+
+Build Release Engineer/
+Software Release Engineer/
+Gatekeeper  
+(by any of these names) 
+Responsible for maintaining the 
+code lines, testing software fixes 
+or releases, maintaining the 
+build system, debugging build 
+errors, and so on; does not need 
+to be proficient in coding, but 
+needs to know basic scripting 
+languages
+
+Business Intelligence Analyst 
+Collects, summarizes, and 
+analyzes data and provides 
+insight into the data used by 
+a business or organization to 
+make decisions
+
+F
+Flash Developer 
+Uses the Flash platform by 
+Adobe to create vector graphics, 
+animation, and games that can 
+be viewed, played, and executed 
+through the Adobe Flash Player. 
+Flash is commonly used to add 
+interactive media such as ads, 
+video, or music to a web page
+
+Front End Developer 
+Responsible for collecting input 
+in various forms from the user, 
+then processing it to conform 
+to a specification the back end 
+can use
+
+I
+
+Interactive Developer  
+Develops interactive media, 
+including audio, video, and 3D 
+technologies
+
+Yuriy Groysman 
+Data Scientist
+“As a data scientist, 
+I extract features 
+from complex, high-
+dimentional data 
+from multiple sources 
+and design scoring 
+and recommendation 
+models using machine 
+learning techniques, 
+such as sparse matrix 
+factorization, topic 
+modeling, heat diffusion 
+models, and deep 
+learning neural nets.”
+
+Core Skills:  
+Python, Mongo, Redis, 
+SKLearn, C, Matlab
+
+L
+
+Linux/Unix Developer 
+Proficient in Linux or Unix tools 
+and well-versed in scripting; 
+should be able to customize 
+the Linux/Unix kernel and be 
+able to do user and kernel-level 
+debugging
+
+M
+
+Mobile Developers 
+Works with one or more of the 
+most common mobile device 
+operating systems
+
+∙ Android: Linux-based 
+
+operating system designed 
+primarily for touch-screen 
+mobile devices, such as 
+smartphones and tablet 
+computers
+
+∙ iOS: Operating system 
+
+developed and is distributed 
+by Apple; used for Apple 
+devices, including iPhones 
+and iPads
+
+∙ Blackberry: Mobile 
+
+operating system specific to 
+Blackberry devices, different 
+from Android or iOS
+
+∙ Windows Phone: 
+
+Operating system run by  
+Microsoft’s Windows Phone 
+that is in the Windows 
+family
+
+Middleware Developer 
+Experienced in using and/or 
+building frameworks that tie 
+different components of an 
+application together
+
+Technology Glossary for Recruiters  //  5
+
+N
+.NET Developer 
+Intimately familiar with any 
+of the .NET languages, such 
+as C#, VB.NET, etc. and .NET 
+stacks, including ASP .NET and 
+WinForms
+
+O
+
+Oracle Developer 
+Experienced at using RDBMS, 
+particularly the Oracle 
+Database, and has experience as 
+a database administrator
+
+OS X Developer /  
+Apple Developer 
+Familiar with OS X operating 
+system, which is unique to 
+Apple computers; also familiar 
+with the languages and tools 
+used by Apple
+
+P
+
+Program Management 
+Oversees the status and purpose 
+of all projects within a program, 
+as well as all project-level 
+activities to make sure the 
+program’s goals will be met
+
+R
+
+Recommender Engines/
+Machine Learning Developer 
+Experienced in building 
+recommendation systems such 
+as Netflix or Pandora
+
+S
+SAP Developer 
+SAP (Systems, Applications and 
+Products in Data Processing) is the 
+world leader in ERP (Enterprise 
+Resource Planning) software
+Responsible for designing 
+software or customizing 
+software for client use with the 
+aim of optimizing operational 
+efficiency
+
+SharePoint Developer 
+Microsoft SharePoint is a Web 
+application platform developed by 
+Microsoft
+Responsible for the design, 
+implementation, integration 
+and support of Microsoft 
+technology and infrastructure 
+solutions
+
+Site Reliability Engineer 
+Maintains large production 
+environments and ensures that 
+the site is not vulnerable to 
+cyber attacks
+
+Software Architect 
+Makes high-level design choices 
+and dictates technical standards, 
+including software coding 
+standards, tools, and platforms; 
+has experience as a programmer
+
+W
+Web Developer 
+Specializes in developing 
+applications for the World Wide 
+Web
+
+Windows Engineer 
+Works on the Windows 
+operating system family by 
+Microsoft
+
+Technology Glossary for Recruiters  //  6
+
+Programming 
+Languages 
+and 
+Technical 
+Skills
+
+With technology and development 
+conventions changing as fast as 
+they do, it’s not uncommon to come 
+across a programming language 
+you’re not familiar with. To help 
+you quickly get up to speed, use this 
+list as a starting point. It will be 
+useful with the keyword search in 
+your recruiting platform. It can also 
+help you have better conversations 
+with hiring managers and team 
+leaders prior to starting your 
+candidate searches. 
+
+  //  7
+
+A
+
+ABAP 
+(Advanced Business Application 
+Programming)  
+High-level programming 
+language created by the German 
+software company SAP; ABAP 
+and Java are the common 
+languages used to develop on 
+SAP products
+
+ActionScript 
+Open-source, OO language 
+developed by Macromedia, 
+Inc.; superset of the syntax and 
+semantics of JavaScript used to 
+develop websites and software 
+that use the Adobe Flash Player 
+platform.
+
+Agile 
+Software development 
+methodology based on iterative 
+and incremental development; 
+solutions and requirements 
+evolve through collaboration 
+between self-organizing, cross-
+functional teams; promotes 
+adaptive learning, evolutionary 
+development and delivery, a 
+time-boxed iterative approach, 
+and encourages a team’s rapid 
+and flexible response to change
+
+Ajax  
+(Asynchronous JavaScript and XML) 
+Group of interrelated web 
+development techniques used 
+to create asynchronous web 
+applications
+
+Ant 
+Open source build tool for 
+automating software build 
+processes; implemented using 
+Java and uses XML to describe 
+the build process
+
+Apache HTTP Server 
+Web server program written 
+in C, developed by the Apache 
+Software Foundation
+
+API  
+(Application Programming Interface) 
+Specification of how some 
+software components should 
+interact with each other
+
+Applescript 
+Scripting language created 
+by Apple Inc. and built into 
+Macintosh operating systems; 
+has some elements of object-
+oriented programming and 
+natural language programming 
+tendencies in its syntax, but 
+does not strictly conform to 
+either category
+
+ASP  
+(Answer Set Programming) 
+Form of declarative 
+programming oriented towards 
+difficult search problems; 
+similar to Perl, Python, and PHP
+
+ASP .NET 
+Server-side web application 
+framework used it to create 
+dynamic web pages; built on 
+the CLR (Common Language 
+Runtime), allowing developers 
+to write ASP .Net code on any 
+.NET language
+
+Assembly 
+Back end programming 
+language typically used in a 
+system’s boot code, the low-
+level code that initializes and 
+tests the system hardware prior 
+to booting the operating system; 
+an understanding of Assembly 
+could be helpul for a C or C++ 
+developer
+
+AWK 
+Scripting language typically 
+used as a data extraction and 
+reporting tool; used on the Unix 
+operating system
+
+B
+
+Bash Shell 
+Unix shell built as a free 
+software replacement for the 
+Bourne shell (and therefore 
+sometimes referred to as 
+“Bourne Again” Shell); default 
+shell for Linux and Mac OS X
+
+BI 
+(Business Intelligence) 
+Applications that include the 
+activities of query and reporting, 
+OLAP (Online Analytical 
+Processing), statistical analysis, 
+forecasting, and data mining
+
+Jonathan Foley 
+Data Scientist
+“I work on analyzing data 
+and developing models to 
+predict and recommend 
+developers at Gild.”
+
+Core Skills:  
+Python, Mongo,  
+Redis, Git, SKLearn, C, 
+Matlab, R
+
+Big Data  
+Collection of data sets so large 
+and complex that it becomes 
+difficult to process using 
+database management tools 
+or traditional data processing 
+applications; using Big Data has 
+led to the creation of specialized 
+databases such as NoSQL and 
+frameworks like Hadoop
+
+Technology Glossary for Recruiters  //  8
+
+BigTable 
+Proprietary data storage system 
+built on Google Technologies
+
+Bourne Shell 
+Unix shell; the default shell for 
+Unix Version 7
+
+Bourne Again Shell 
+See Bash Shell
+
+C
+
+C 
+General purpose programming 
+language used quite often 
+with low-level programming 
+such as embedded systems, 
+operating systems, and drivers. 
+C is a procedural language, as 
+compared to C++ and Java, 
+which are OO-based
+
+C++ 
+Programming language that 
+allows programmers to develop 
+in terms of objects that contain 
+both data and methods; runs 
+on a variety of platforms, such 
+as Windows, OS X, and Unix; is 
+a multi-paradig, and supports 
+OO and other useful styles of 
+programming and development 
+based on C
+
+C#  
+pronounced “C-sharp” 
+Part of the .NET framework; 
+syntax is similar to the syntax 
+of C and C++, with minor 
+variations; designed to be an 
+OO language
+
+Camping 
+Framework written in Ruby
+
+Cascades 
+UI framework for Blackberry
+
+Cassandra 
+Open source distributed 
+database management system; 
+NoSQL solution used to handle 
+very large amounts of data
+
+CI  
+(Continuous Integration) 
+Practice aimed at preventing 
+integration problems 
+that merges all developer 
+workspaces with a shared 
+mainline several times a day
+
+ClearCase 
+Family of software tools 
+that support SCM (software 
+configuration management) of 
+source code and other software 
+development assets; supports 
+two kinds of use models: UCM 
+(Unified Change Management) 
+and base ClearCase
+
+Neha Karajgikar 
+Back End Engineer
+“I work on the back end 
+team on Gild Source, 
+where I design and write 
+code to add to the data 
+we have in our system.”
+
+Core Skills:  
+Ruby, Ruby on Rails, 
+Redis, Mongo
+
+COBOL  
+(Common Business-Oriented 
+Language) 
+One of the oldest programming 
+languages used in business, 
+finance, and administrative 
+systems for companies and 
+governments
+
+Cobra 
+Open source, general-purpose, 
+OO programming language that 
+runs on the Microsoft .NET and 
+Mono platforms, and is strongly 
+influenced by Python, C#, Eiffel, 
+and Objective-C
+
+Cocoa 
+Object-oriented API that is 
+native to Apple’s OS X; typically 
+developed using tools provided 
+by Apple, such as Xcode 
+and Interface Builder, using 
+Objective-C
+
+Cocoa Touch 
+API related to Cocoa used for 
+the iOS operating system
+
+Coffeescript 
+Compiles (translates) into 
+JavaScript
+
+Cognos 
+IBM’s business intelligence 
+and performance management 
+software suite designed to 
+enable business users without 
+technical knowledge to extract 
+corporate data, analyze it and 
+assemble reports
+
+COM  
+(Component Object Module) 
+Basis of several Microsoft 
+technologies and frameworks
+
+CORS  
+(Cross-Origin Resource Sharing) 
+HTML5 feature that allows 
+one site to access another site’s 
+resources despite being under 
+different domain names
+
+Technology Glossary for Recruiters  //  9
+
+CouchDB 
+(Cluster of Unreliable  
+Commodity Hardware) 
+Open source, document-
+oriented NoSQL database by 
+Apache that is accessed using a 
+RESTful JSON API; extremely 
+scalable, with high reliability; 
+Javascript is the query language 
+using MapReduce and HTTP for 
+an API
+
+csh 
+(C Shell) 
+Unix shell
+
+Duilio Ruggiero 
+Web Application 
+Developer
+“I work on the server side 
+of the web application, 
+showing the elaborated 
+data to the client side or 
+to other applications (via 
+REST API).”
+
+Core Skills:  
+Ruby, Ruby on Rails,  
+Sinatra, Grape, Cucumber, 
+RSpec, Mongo, Redis, Git
+
+CSS  
+(Cascading Style Sheets) 
+Style sheet language used 
+to describe the presentation 
+semantics (the look and 
+formatting) of a document 
+written in a markup language
+
+CSS3 
+Latest standard for CSS
+
+CVS  
+(Concurrent Versions System) 
+Client-server free software 
+revision control system popular 
+with open source developers 
+that keeps track of all work and 
+tracks changes on files, allowing 
+developers to collaborate
+
+D
+
+DCOM  
+(Distributed Component Object Model) 
+Proprietary Microsoft 
+technology for communication 
+among software components 
+distributed across networked 
+computers
+
+Debian 
+Operating system composed of 
+open source software packages; 
+one of the most popular Linux 
+distributions
+
+Django 
+Open source web application 
+framework written in Python
+
+DOS  
+(Disk Operating System) 
+Able to access hardware directly, 
+making it popular for use in 
+embedded devices
+
+Dynpro / WebDynpro 
+Framework for development 
+of user interface for use with 
+SAP NetWeaver; supports 
+programming for platform such 
+as Java , ABAP, .NET
+
+E
+
+Eiffel 
+OO language that emphasizes 
+declarative statements over 
+procedural code; often compiled 
+into C
+
+Emacs 
+Family of text editors that 
+are characterized by their 
+extensibility
+
+ERP  
+(Enterprise Resource Planning) 
+System that integrates internal 
+and external management of 
+information across an entire 
+organization
+
+ETL  
+(Extract, Transform and Load) 
+Process in database usage and 
+data warehousing that involves: 
+extracting data from outside 
+sources, transforming it to fit 
+operational needs, and loading 
+it into the end target
+
+F
+
+Frameworks 
+Reusable set of libraries 
+or classes used to develop 
+applications and products; 
+include support programs, 
+compilers, code libraries, tool 
+sets, and APIs
+
+G
+
+Git 
+Distributed revision control 
+and source code management 
+system that places an emphasis 
+on speed, allowing developers 
+to track revisions and history; 
+not dependent on network 
+access or a central server
+
+Go  
+(Golang) 
+Open source language designed 
+for fast compiling and efficient 
+garbage-collection (automatic 
+memory management); syntax 
+is similar to that of C; it is 
+important to note that it is 
+separate from Go! (a logic-
+based language)
+
+Technology Glossary for Recruiters  //  10
+
+Gradle 
+Project automation tool that 
+builds upon Ant and Maven 
+designed for multi-project 
+builds that can grow fairly 
+large and supports incremental 
+builds; associated languages 
+include Java, Groovy, and Scala
+
+Groovy 
+OO language used for scripting 
+on the Java platform; a dynamic 
+language with similar features 
+to those of Python, Ruby, and 
+Perl
+
+H
+
+Hadoop 
+Software library framework 
+by Apache that allows for 
+the distributed processing of 
+large data sets across clusters 
+of computers using simple 
+programming models
+
+HBase 
+Open source, non-relational, 
+distributed database, modeled 
+after Google’s BigTable and 
+written in Java; it runs on top 
+of HDFS (Hadoop Distributed 
+Filesystem)
+
+HDFS  
+(Hadoop Distributed File System) 
+File system written in Java for 
+the Hadoop framework
+
+HTML 
+(HyperText Markup Language) 
+Main markup language for 
+creating web pages and other 
+information that can be 
+displayed in a web browser; 
+HTML elements form the 
+building blocks of all languages
+
+HTML5 
+Fifth revision of HTML which 
+contains new syntactic features 
+that were not previously 
+available and was built with the 
+consideration of being able to 
+run well on mobile devices
+
+HTTP  
+(Hypertext Transfer Protocol) 
+Foundation of data 
+communication for the World 
+Wide Web
+
+Hudson 
+CI (Continuous Integration) tool 
+written in Java; supports SCM 
+(Source Code Management) 
+tools including CVS, SVN 
+(Subversion), Git, Perforce, and 
+ClearCase
+
+Jake Magner 
+Data Scientist
+“I work on data cleaning, 
+data mining, and 
+algorithm development to 
+improve Gild’s products, 
+make predictions, and 
+gain insights.”
+
+Core Skills:  
+Python, Mongo, Redis, 
+SKLearn
+
+I
+
+IDE  
+(Integrated Development Environment) 
+Software application that 
+consists of a source code editor, 
+build automation tools, and a 
+debugger
+
+iOS 
+Operating system for Apple’s 
+mobile devices, including 
+iPhone, iPod, and iPad products
+
+J
+
+J2EE  
+(Java 2 Platform, Enterprise Edition) 
+Platform-independent, Java-
+centric environment for 
+developing, building and 
+deploying Web-based enterprise 
+applications online
+
+Java 
+General-purpose, OO language; 
+one of the most popular 
+programming languages in use, 
+particularly for client-server 
+web applications
+
+Java Bytecode 
+Form of instructions that the 
+Java virtual machine executes; 
+not necessary for a Java 
+programmer to be aware of or 
+understand Java bytecode at all
+
+JavaScript 
+Dynamic, OO, general-purpose, 
+programming language best 
+known as the scripting language 
+for web pages, but is also 
+used in many non-browser 
+environments
+
+Java EE  
+(Java Platform, Enterprise Edition) 
+Oracle’s enterprise Java 
+platform
+
+Java RMI  
+(Remote Method Invocation) 
+Java API that allows a program 
+to execute subroutines both 
+locally or remotely (on another 
+computer) using essentially the 
+same code
+
+JBoss 
+Application server written in 
+Java that implements Java EE; 
+recently renamed “Wildfly”
+
+Technology Glossary for Recruiters  //  11
+
+Jenkins 
+Open source CI (Continuous 
+Integration) tool that is written 
+in Java; forked from Hudson 
+and supports SCM tools 
+including CVS, Git, Perforce, 
+SVN (Subversion), Mercurial, 
+and ClearCase
+
+JMS  
+(Java Message Service) 
+API that sends messages 
+between 2 or more clients; part 
+of the Java EE platform
+
+jQuery 
+Free, open source JavaScript 
+library used to navigate HTML 
+documents, handle events, 
+perform animations and add 
+Ajax interactions to Web pages
+
+JRuby 
+Ruby language interpreter that 
+is written in Java; allows full 
+two-way access between the 
+Java and Ruby code
+
+JSON  
+(JavaScript Object Notation) 
+Text-based open standard 
+designed for human-readable 
+data interchange
+
+JVM  
+(Java Virtual Machine) 
+Virtual machine that can 
+execute Java bytecode
+
+K
+
+Kernel 
+Main component of most 
+operating systems; acts as a 
+bridge between data processing 
+at the hardware level and 
+applications
+
+ksh 
+(Korn Shell) 
+Unix shell that is backwards 
+compatible with Bourne Shell 
+and includes many feature of  
+C Shell
+
+L
+
+Linux 
+Operating system assembled 
+with open source software; 
+similar to Unix
+
+LUA 
+Gaming framework for iOS
+
+M
+
+Make 
+Utility that builds programs and 
+libraries automatically from 
+source code especially popular 
+in Unix
+
+MapReduce 
+Programming model for 
+processing large data sets
+
+Maven 
+Build automation tool that is 
+primarily used for Java projects
+
+Merb  
+(Mongrel+Erb) 
+Model–view–controller web 
+framework written in Ruby
+
+Mercurial 
+Free, distributed source control 
+management tool
+
+Mongo 
+Open source, document-
+oriented database that is part of 
+the NoSQL family of databases; 
+written in C++
+
+Mono 
+Software platform designed to 
+allow developers to easily create 
+cross platform applications 
+for iPhone and Android-based 
+smartphones
+
+MySAP 
+E-business software integration 
+tool for SAP
+
+MySQL  
+pronounced “My S-Q-L” 
+Widely used open source 
+RDBMS (Relational Database 
+Management System) 
+(Relational Database 
+Management System) that 
+runs as a server and provides 
+multi-user access to multiple 
+databases; written in C and C++
+
+MVC  
+(Model View Controller) 
+Architecture for building 
+interactive applications that lies 
+at the heart of the Ruby on Rails 
+
+Marius Colacioiu 
+Front End Developer
+“I work on the front 
+end team on Gild 
+Source, making sure 
+recruiters and customer 
+sales requests get fully 
+implemented in time.”
+
+Core Skills:  
+Ruby, Javascript, Git, 
+ElasticSearch
+
+MonoTouch 
+Software development kit 
+developed by Xamarin that 
+allows developers to create 
+iPhone applications using C# 
+and the .NET framework
+
+framework
+
+N
+
+.NET 
+.NET is a framework that runs 
+primarily on Windows
+
+Technology Glossary for Recruiters  //  12
+
+Netweaver / SAP Netweaver 
+SAP’s integrated technology 
+computing platform and is the 
+technical foundation for many 
+SAP applications
+
+Nitro 
+Web development library for the 
+Ruby language
+
+NoSQL  
+(Not Only SQL) 
+Database designed for 
+distributed data stores for very 
+large scale data needs; examples 
+are Mongo, CouchDB, and Redis
+
+Francesco Laurita 
+VP of Engineering
+“I work within Gild’s 
+software stacks, mainly 
+focused on our back end 
+data analysis system. As 
+a VP of Engineering I’m 
+also responsabile for all 
+of the technical decisions 
+behind our products.”
+
+Core Skills:  
+Ruby, Ruby on Rails, Java, 
+C, C++, NoSQL
+
+O
+
+Objective-C 
+Main programming language 
+used by Apple for the OS X and 
+iOS operating systems
+
+Objective-C++  
+Language that can compile 
+files that use a combination of 
+Objective-C and C++ syntax;  
+adds the same extensions to 
+C++ that Objective-C adds to C
+
+OData  
+(Open Data Protocol) 
+Data access protocol for 
+querying and updating data 
+from Microsoft
+
+OEM  
+(Original Equipment Manufacturer) 
+Manufacturers who resell 
+another company’s product 
+under their own name and 
+branding
+
+OLAP  
+(Online Analytical Processing) 
+Computer processing that 
+enables a user to easily and 
+selectively extract and view data 
+from different points of view
+
+OO Programming Languages 
+(Object-Oriented)  
+Programming methodology 
+organized around objects 
+instead of actions; objects are 
+organized into classes, which 
+allow individual objects to be 
+grouped together to design 
+applications and computer 
+programs; Java, C++, and C# 
+are examples of OO languages
+
+Open Source 
+Philosophy that promotes free 
+redistribution and access to 
+an end product’s design and 
+implementation details
+
+Operating Systems 
+Collection of software that 
+manages computer hardware 
+resources and provides common 
+services for computer programs; 
+examples include: Android, iOS, 
+Linux, OS X, and Windows
+
+Oracle Database 
+Object-relational database 
+management system produced 
+and marketed by Oracle 
+Corporation
+
+OS X 
+Series of Unix-based graphical 
+interface operating systems 
+developed, marketed, and sold 
+by Apple Inc.
+
+P
+
+Perforce 
+Revision control system
+
+Perl 
+Family of high-level, general-
+purpose, dynamic programming 
+languages that borrows features 
+from C, Shell Scripting, AWK, 
+and sed; been nicknamed 
+the “Swiss Army chainsaw of 
+scripting languages” because it 
+is flexible and powerful
+
+PHP 
+Open Source, server-side, 
+scripting language designed to 
+produce dynamic web pages for 
+web development; similar to 
+Perl, Python, and ASP
+
+Protocol Buffer 
+Method of serializing structured 
+data, helpful when developing 
+programs to communicate with 
+each other or for storing data
+
+Puppet 
+Open source SCM tool written 
+in Ruby and designed to 
+manage the configuration of 
+Linux and Windows operating 
+systems declaratively
+
+Python 
+Open source, OO, extensible, 
+programming language; similar 
+to Perl, PHP, and ASP
+
+Technology Glossary for Recruiters  //  13
+
+R
+
+R 
+OO, free software programming 
+language widely used among 
+statisticians and data miners
+
+Rails 
+See Ruby on Rails
+
+RDBMS 
+(Relational Database  
+Management System) 
+Predominant choice for 
+storage of information in new 
+databases; most employ SQL; 
+special system software used 
+to manage the organization, 
+storage, access, security, and 
+integrity of data
+
+Redis 
+Open source, networked, in-
+memory, key-value data store, 
+often referred to as a data 
+structure server since keys can 
+contain strings, hashes, lists, 
+sets and sorted sets
+
+REST  
+(Representational State Transfer) 
+Style of software architecture 
+for distructed systems such 
+as the World Wide Web; the 
+predominant web API model
+
+RESTful JSON 
+Series of conventions for: URLs, 
+HTTP methods, HTTP headers, 
+JSON fields
+
+RHEL  
+(RedHat Enterprise Linux) 
+Linux-based operating system
+
+RPC  
+(Remote Procedural Call) 
+Form of communication that 
+allows a program to execute 
+subroutines both locally or 
+remotely (on another computer) 
+using essentially the same code
+
+Ruby 
+Dynamic, reflective, general-
+purpose, OO, programming 
+language
+
+Ruby on Rails 
+Open source, full stack, web 
+application framework that 
+runs on Ruby
+
+Jade Dominguez 
+Front End Developer
+“I create and maintain 
+Gild’s customer-facing 
+web-based applications.”
+
+Core Skills:  
+Ruby, Javascript, HTML, 
+CSS, ElasticSearch
+
+S
+
+SAP  
+(Systems, Applications, and Products 
+in Data Processing) 
+German software company 
+whose products allow 
+businesses to track customer 
+and business interactions; well-
+known for its ERP (Enterprise 
+Resource Planning) and data 
+management programs
+
+SAP NetWeaver 
+Provides the development 
+and runtime environment for 
+SAP applications and can be 
+used for custom development 
+and integration with other 
+applications and systems
+
+SAS  
+(Statistical Analysis System) 
+pronounced “sass” 
+Integrated system of software 
+products by the SAS Institute; 
+software used to perform 
+powerful and comprehensive 
+statistical analysis on data sets
+
+Scala 
+Object-oriented, imperative 
+language intended to be 
+compiled to Java bytecode or 
+.NET
+
+SCM  
+(Software Configuration Management) 
+Task of tracking and controlling 
+changes in the software, part of 
+the larger cross-discipline field 
+of configuration management
+
+SCM  
+(Source Code Management) 
+Management of changes to 
+programs, web sites, and 
+documents; also know known as 
+revision control
+
+Scripting 
+Another term for programming
+
+SDK  
+(Software Development Kit)  
+Set of software development 
+tools that allows for the creation 
+of applications for a software 
+package, framework, hardware 
+platform, computer system, 
+operating system, or similar 
+development platform 
+
+sed  
+(Stream Editor) 
+Unix utility that parses text and 
+implements a programming 
+language which can apply 
+transformations to such text
+
+SharePoint 
+Software platform and an online 
+collaboration tool developed by 
+Microsoft
+
+Technology Glossary for Recruiters  //  14
+
+Shell 
+Provides an interface to access 
+the services of a kernel; term 
+can also apply to any software 
+that is built around a particular 
+component, like web browsers
+
+SSIS  
+(SQL Server Integration Services) 
+Component of the SQL Server 
+database software that can be 
+used to perform a broad range 
+of data migration tasks
+
+SSRS  
+(SQL Server Reporting Services) 
+Server-based report generation 
+software system from Microsoft
+
+SVN  
+(Subversion) 
+Software versioning and 
+revision control system 
+distributed under an open 
+source license
+
+SVN  
+(Support Vector Network) 
+Supervised learning models that 
+can analyze data and recognize 
+patterns, used for classification 
+and regression analysis and in 
+machine learning
+
+T
+
+TCP/IP 
+Suite of communication 
+protocols used for the Internet
+
+Teradata 
+Fully scalable relational 
+database management system 
+produced by Teradata Corp; 
+widely used to manage large 
+data warehousing operations 
+
+U
+
+UCM  
+(Unified Change Management) 
+OO realization of ClearCase,  
+a set of software tools typically 
+supporting the process 
+area software configuration 
+management
+
+Shell Scripting 
+Script written for the shell, or 
+command line interpreter, of 
+an operating system; often 
+considered a simple domain-
+specific programming language
+
+Sinatra 
+Sinatra is an open source library 
+and domain-specific language 
+written in Ruby; alternative to 
+Ruby on Rails, Merb, Nitro, and 
+Camping
+
+SOA  
+(Service-Oriented Architecture) 
+Software design and 
+architecture design pattern 
+that allows easy cooperation of 
+multiple computers connected 
+over a network
+
+SOAP  
+(Simple Object Access Protocol) 
+Protocol specification for 
+exchanging structured 
+information that relies on  
+XML information set for it 
+message format
+
+SQL  
+(Structured Query Language) 
+Designed for managing data 
+held in a RDBMS (Relational 
+Database Management System)
+
+SQL Server 
+RDBMS (Relational Database 
+Management System developed 
+by Microsoft
+
+SSAS  
+(SQL Server Analysis Services) 
+OLAP (Online Analytical 
+Processing) data mining and 
+reporting tool in SQL Server
+
+Unit-testing 
+Method by which units of 
+source code, sets of computer 
+program modules with 
+associated control data, usage 
+procedures, and operating 
+procedures, are tested to 
+determine if they are fit for use
+
+Unix 
+Multitasking, multi-user 
+operating system; first 
+developed using Assembly, but 
+has been almost completely 
+recoded in C
+
+Unix Shell 
+Program that interprets 
+commands and acts as an 
+intermediary between the user 
+and the inner workings of the 
+operating system
+
+UI  
+(User Interface) 
+The space where interaction 
+between humans and machines 
+occurs
+
+Matt Bailey 
+Operations Engineer
+
+“At Gild I wrangle cloud 
+infrastructure, architect 
+automation, and ensure 
+service uptime.”
+Core Skills:  
+GNU/Linux, Chef, AWS, 
+EC2, Ruby, Nagios
+
+Technology Glossary for Recruiters  //  15
+
+Windows Server 
+Series of server operating 
+systems released by Microsoft
+
+WSDL  
+(Web Services Description Language) 
+XML-based interface 
+description language used 
+to describe the functionality 
+offered by a web service
+
+X
+
+XHTML  
+(Extensible HyperText Markup 
+Language) 
+Family of XML markup 
+languages that mirror versions 
+of HTML
+
+XML  
+(Extensible Markup Language) 
+Markup language that defines 
+a set of rules for encoding 
+documents in a format that is 
+both machine-readable and 
+human-readable
+
+XSL 
+(Extensible Stylesheet Language) 
+Language for expressing style 
+sheets; an XSL style sheet is 
+a file that describes how to 
+display an XML document of a 
+given type
+
+VHDL  
+(VHSIC Hardware Description 
+Language) 
+HDL (Hardware Description 
+Language) used in the 
+automation of electronic design 
+to describe mixed-signal and 
+digital systems
+
+Visual Basic 
+Third-generation event-driven 
+programming language and 
+IDE (Integrated Development 
+Environment) from Microsoft 
+for its COM programming 
+model first released in 1991
+
+W
+
+Web Services 
+Method of communication 
+between two devices over the 
+World Wide Web
+
+WebSocket 
+Web technology which defines 
+an API establishing “socket” 
+connections between a web 
+browser (client) and a server
+
+Weka 
+Suite of machine learning 
+software that is written in Java
+
+Wildfly 
+See JBOSS
+
+Windows CE  
+(Windows Embedded Compact) 
+Operating system that Microsoft 
+licenses out to OEMs and device 
+makers; designed WinCE for 
+embedded systems
+
+Ignazio Setti 
+Front End Developer
+“I create and manage 
+customer-facing web 
+applications.”
+
+Core Skills:  
+Ruby, Javascript, Mongo, 
+Redis
+
+V
+
+VB.NET  
+(Visual Basic .NET) 
+OO language implemented on 
+the .NET framework
+
+Verilog 
+HDL (Hardware Description 
+Language) used to model 
+electronic systems
+
+Technology Glossary for Recruiters  //  16
+
+Which 
+Tech Roles 
+Require 
+Which Skills
+
+This is where the rubber meets the 
+road. We’ve given you an overview 
+of the most common tech roles in 
+today’s market. We followed those 
+roles with a primer in programming 
+and development languages. In this 
+section, we’ll show you the match-
+up between the most common tech 
+roles and the skills each might 
+require.
+
+We’ve tried to be as comprehensive 
+as possible in including all of the 
+skills each role might demand. We 
+recommend having a conversation 
+with your hiring manager or the 
+technical team lead prior to starting 
+the recruiting process so you know 
+exactly which skills are needed for 
+a given job. An idea: you can print 
+out the page of this glossary with 
+the tech role you’re going to recruit 
+for and share it with the hiring 
+manager. Ask the hiring manager 
+to circle the skills/languages that 
+are most important, if there’s any 
+doubt. It’s one small extra step, but 
+it can save you time when you need 
+to target candidates with specific 
+skill sets.
+
+  //  17
+
+Back End Developer
+
+Business Intelligence Analyst
+
+Data Engineer
+
+Data Mining
+Linux/Unix Proficient Developers
+
+Machine Learning/ 
+Recommender Engines
+Oracle Developer
+
+Back End
+Skills: C#, Java, PHP, Python, Ruby
+Similar Skill Set: CVS, GIT 
+
+Java: JDBC, Hibernate, Spring, JBoss, Apache, Tomcat, Webservers, Maven, 
+Eclipse, NetBeans; Perforce, PHP: Unix, MySQL 
+Python: Unix, MySQL, SVN
+
+Skills: Business-intelligence, BI, C, C++, C#, Cognos, ETL, Java, jQuery, Objective-C, R, SQL, 
+SAS, SSAS, SSIS, SSRS, Visual Basic, SAPUI5 - CSS, CSS3, HTML5, Javascript, OData 
+Dynpro - ABAP, Dynpro
+
+Skills: C, C++, Cassandra, HBase, HDFS, Java, Puppet, Ruby, Scala
+Similar Skill Set: Hadoop, MapReduce, Mongo, Perl, Python
+Skills: Perl, Python
+Skills: AWK, Debian, Emacs Fedora, Linux, Linux-kernel, RHEL, Unix, vi, vim  
+
+Shell Scripting: Bourne Shell, Bash, Korn, C Shell 
+Scripting: PHP, Python, Perl
+
+Skills: Java, Perl, Python, R, Weka
+
+Skills: ASP, .NET, SQL 
+
+Databases: MySQL, Oracle, PostgreSQL, RDBMS
+
+SAP Developer
+Site Reliability Engineer
+Note: Languages will vary by company
+Software Architect
+Note: This will vary by company, search on 
+languages, frameworks, APIs, tools, databases, etc.
+
+Skills: ABAP, C++, COBOL, ERP, mySAP, Netweaver, Java, SAP
+Skills: Authentication/Authorization, Cloud, HTTP, Linux/Unix, SQL, Network Design, Security, 
+
+performance, and disaster recovery, SSL, TCP/IP
+
+Skills: .NET, Agile, Ant, API, C++, Cassandra, CORS, CouchDB, Git, HTTP, Java, Maven, Mongo, 
+MySQL, MVC, Oracle, Perl, PHP, Python, Redis, Ruby, SOA, SDK, Teradata, Unit-testing, 
+Websocket
+
+Big Data Engineers
+
+Data Engineer
+
+Data Mining
+
+Machine Learning/ 
+Recommender Engines
+Oracle Developer
+
+Big Data
+
+Skills: Cassandra, Cloud Computing, Hadoop, HBase, MapReduce, Mongo
+Similar Skill Sets: Accumulo, Hypertable, Nutch, Pentaho, Sector/Sphere
+Skills: C, C++, Cassandra, HBase, HDFS, Java, Puppet, Ruby, Scala
+Similar Skill Set: Hadoop, MapReduce, Mongo, Perl, Python
+Skills: Perl, Python
+
+Skills: Java, Perl, Python, R, Weka
+
+Skills: ASP, .NET, SQL 
+
+Databases: MySQL, Oracle, PostgreSQL, RDBMS
+
+Platforms Infrastructure
+
+Skills: C, C++, Cassandra, HDFS, Go, HTTP, Java, MySQL
+
+.NET Developer
+
+Cocoa Developer/OSX Developer
+
+Flash Developer
+Front End Developer
+
+Interactive Developer
+Rails Developer
+SharePoint Developer
+
+Web Developer
+Windows Developer
+
+Front End and UX
+
+Skills: ASP, ASP .NET, C#, VB.NET
+Similar Skill Sets: Java, J2EE, other OO languages
+Skills: Apple, Applescript, Cocoa, Cocoa Touch, iOS, Objective-C, Objective C++, OS X, Xcode
+Similar Skill Sets:MVC
+Skills: ActionScript, Flash
+Skills: ActionScript, Ajax, ASP, CoffeeScript, CSS, Flash, HTML, HTML5, JavaScript, JQuery,
+Similar Skill Sets: Ruby on Rails
+Skills: Ajax, CSS, HTML, JavaScript, PHP, XHTML
+Skills: Ruby, Ruby-HTML, Ruby on Rails
+Skills: Ajax, ASP .NET, C# , CSS, HTML, JavaScript, SharePoint, SQL, Windows Server, VB.NET, 
+
+XML, XSL
+
+Skills: Web-Development
+Skills: ASP, C, C#, C++, .NET, Windows
+
+Middleware Developer
+
+Data Engineer
+
+J2EE Developer
+
+Middleware
+
+Skills: Cobra, DCOM, Java RMI, REST, RPC, SOA, SOAP, Web Services, WSDL, XML
+
+Skills: C, C++, Cassandra, HBase, HDFS, Java, Puppet, Ruby, Scala
+Similar Skill Set: Hadoop, MapReduce, Mongo, Perl, Python
+Skills: EJB (Enterprise Java Beans), Java, J2EE 
+
+Drivers: Hibernate, JDBC, ODBC 
+Frameworks: Spring, MVC, Struts  
+Servers: JBoss, Apache, Tomcat
+
+Rails Developer
+
+Skills: Ruby, Ruby-HTML, Ruby on Rails
+
+All Mobile Development
+Android Developer
+
+Blackberry Developer
+iOS Developer
+
+OS X Developer
+Web Developer
+
+Ruby on Rails Developer
+Interactive Developer
+.NET Developer
+
+Embedded Developer
+
+Platform Skills
+
+Mobile
+
+Skills: Multithreading, Event-handling, Memory-management
+Skills: C, C++, HTML5, Java, Linux
+Similar Skill Set: ADT (Android Development Tools)
+Skills: C, C++, Cascades, HTML5, Java, QT
+Skills: C, Cocoa, HTML5, LUA, Objective-C
+Similar Skill Sets: MonoTouch, Xamarin iOS, Titanium SDK
+Skills: Cocoa, Cocoa Touch, Objective-C, Objective-C++, OS X, Xcode
+Skills: Ajax, ASP, CoffeeScript, CSS, HTML, JavaScript, JQuery, JRuby, PHP, Ruby,  
+
+Ruby on Rails
+
+Skills: Ruby, Ruby-HTML, Ruby on Rails
+Skills: Ajax, CSS, HTML, JavaScript, PHP, XHTML
+Skills: ASP, ASP .NET, C#, VB.NET
+Similar Skill Sets: Java, J2EE, other OO languages
+
+Other
+
+Skills: C, C++, Embedded, Firmware, Memory-Management, Microcontroller, Microprocessor, 
+
+Multi-Threading, VHDL, Verilog
+
+Skills: Apache, C, C++, CI, Dom/Sax, ClearCase, CVS, Git, Perforce, SVN, J2EE, Java, JBoss, 
+
+JRuby, JMS, JVM, Maven, .NET, OO, PHP, Python, RMI, Ruby, Ruby on Rails, SOA, 
+Tomcat , Unix, Web Services, WSDL, XML
+
+Build Release Engineer/Software 
+Release Engineer/Gatekeeper
+
+Quality Assurance
+
+Skills: Scripts: Maven, Perl, Python, Shell, TCL 
+
+Repository Tools: ClearCase, Git, Perforce, SVN (Subversion) 
+Languages: C++, OO languages 
+Build tools: Aardvark, Ant, Gradle, Hudson, Jenkins, Make, Maven
+
+About Gild
+
+To Learn More
+email info@gild.com 
+call (800) 664-2366 
+visit gild.com/learn-more-Gild
+
+Tech recruiting has been 
+begging for innovation. 
+That’s why Gild is here.
+Bringing meritocracy to tech hiring, 
+Gild’s recruiting solutions  
+harness the power of data to liberate 
+you from the challenges of  
+finding developers. 
+
+About Gild Source 
+Gild Source can dramatically 
+improve how you hire 
+developers. Gild Source is tech 
+recruiting software that helps 
+you solve the challenge of how to 
+effectively recruit developers, by 
+enabling you to easily find and 
+target candidates you know are good.
+
+Using patent-pending technology 
+to analyze programmers’ actual 
+code and professional contributions 
+from open source communities 
+and Q&A sites, Gild has profiled, 
+scored, and ranked millions 
+of developers.  Gild’s scores and 
+rankings provide you with an instant 
+assessment of a developer’s skills 
+and experience.  
+
+With Gild Source:
+
+• Search for developers using 
+multiple criteria  
+like coding skills, title, or 
+location
+
+• Access comprehensive profiles 
+of developers
+
+• Email candidates directly
+
+  //  20
+
+
