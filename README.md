@@ -5,3 +5,6 @@ The project performs text analysis on various job openings in the IT industry an
 
 ## Text Analysis
 TF-IDF Algorithm is used to to compute the frequencies of words in the text 
+
+
+pip install awscli
