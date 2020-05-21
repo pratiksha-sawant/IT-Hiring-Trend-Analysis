@@ -5,3 +5,16 @@ The project performs text analysis on various job openings in the IT industry an
 
 ## Text Analysis
 TF-IDF Algorithm is used to to compute the frequencies of words in the text 
+
+
+### AWS Configuration with aws cli
+pip install awscli
+
+aws configure
+
+AWS Access Key : ACCESS_KEY
+
+AWS Secret Key : SECREET_KEY
+
+AWS Region : 'Your Region'
+
