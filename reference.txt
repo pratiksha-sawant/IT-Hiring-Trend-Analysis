@@ -9,3 +9,9 @@ https://www.thebalancecareers.com/technical-skills-list-2063775
 https://towardsdatascience.com/tf-idf-for-document-ranking-from-scratch-in-python-on-real-world-dataset-796d339a4089
 
 https://stackabuse.com/python-for-nlp-creating-tf-idf-model-from-scratch/
+
+AWS API SETUP
+https://www.youtube.com/watch?v=G68oSgFotZA
+
+
+https://medium.com/@msalmon00/web-scraping-job-postings-from-indeed-96bd588dcb4b
