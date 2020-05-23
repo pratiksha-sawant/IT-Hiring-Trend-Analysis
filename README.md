@@ -23,3 +23,5 @@ AWS Secret Key : SECREET_KEY
 
 AWS Region : 'Your Region'
 
+## Exploratory data analysis
+
