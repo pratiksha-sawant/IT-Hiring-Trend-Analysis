@@ -6,12 +6,23 @@ https://www.thebalancecareers.com/list-of-information-technology-it-skills-20624
 
 https://www.thebalancecareers.com/technical-skills-list-2063775
 
+
+# TF-IDF Algorithm
 https://towardsdatascience.com/tf-idf-for-document-ranking-from-scratch-in-python-on-real-world-dataset-796d339a4089
 
 https://stackabuse.com/python-for-nlp-creating-tf-idf-model-from-scratch/
 
-AWS API SETUP
+
+# Web Scraping
+https://medium.com/@msalmon00/web-scraping-job-postings-from-indeed-96bd588dcb4b
+
+
+# AWS API SETUP
 https://www.youtube.com/watch?v=G68oSgFotZA
 
+#AWS Kinesis
+https://www.youtube.com/watch?v=rYbS5ihk_xg
 
-https://medium.com/@msalmon00/web-scraping-job-postings-from-indeed-96bd588dcb4b
+https://medium.com/swlh/real-time-data-streaming-with-python-aws-kinesis-how-to-part-1-cd56feb6fd0f
+
+https://docs.aws.amazon.com/streams/latest/dev/introduction.html
