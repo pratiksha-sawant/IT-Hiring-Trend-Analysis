@@ -33,3 +33,7 @@ Maintained the count of each word for every job description
 
 Merged the counts with the remaining data to create a dataset having additional columns of key words storing the count
 
+## Data Streaming
+Implemented the live streaming of data with AWS Kinesis
+
+
