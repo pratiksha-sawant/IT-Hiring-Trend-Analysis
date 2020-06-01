@@ -24,4 +24,12 @@ AWS Secret Key : SECREET_KEY
 AWS Region : 'Your Region'
 
 ## Exploratory data analysis
+Explored the dataset by identifying the null values, type of data collected, job descriptions extracted and discovered text in the data
+
+## Word Count
+Identified the tech word tokens from each job description by comparing the words with finalized keywords
+
+Maintained the count of each word for every job description
+
+Merged the counts with the remaining data to create a dataset having additional columns of key words storing the count
 
