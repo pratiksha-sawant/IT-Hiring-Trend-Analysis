@@ -26,3 +26,5 @@ https://www.youtube.com/watch?v=rYbS5ihk_xg
 https://medium.com/swlh/real-time-data-streaming-with-python-aws-kinesis-how-to-part-1-cd56feb6fd0f
 
 https://docs.aws.amazon.com/streams/latest/dev/introduction.html
+
+https://www.youtube.com/watch?v=WCes0ihQw3g
