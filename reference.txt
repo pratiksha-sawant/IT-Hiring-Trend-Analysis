@@ -28,3 +28,15 @@ https://medium.com/swlh/real-time-data-streaming-with-python-aws-kinesis-how-to-
 https://docs.aws.amazon.com/streams/latest/dev/introduction.html
 
 https://www.youtube.com/watch?v=WCes0ihQw3g
+
+https://docs.aws.amazon.com/redshift/latest/gsg/rs-gsg-authorize-cluster-access.html
+
+https://docs.aws.amazon.com/firehose/latest/dev/controlling-access.html#using-iam-rs-vpc
+
+https://medium.com/@siprem/streaming-twitter-feed-using-kinesis-data-firehose-and-redshift-745c96d04f58
+
+
+COPY wordcount(col1, col2, col3, col4)
+FROM 's3://<your-bucket-name>/load/file_name.csv'
+credentials 'aws_access_key_id=<Your-Access-Key-ID>;aws_secret_access_key=<Your-Secret-Access-Key>'
+CSV;

@@ -35,14 +35,5 @@ Merged the counts with the remaining data to create a dataset having additional 
 
 ## Data Streaming
 Implemented the live streaming of data with AWS Kinesis
-Step 1: Created a Kinesis Data stream to fetch the records with '|' delimiter within records (no of shards - 1)
-
-Step 2: Created a Kinesis Data Delivery Strem (AWS Firehorse) which takes input from the data stream. Enable the SSE under data encryption and add the IP Address as per region under subnet groups to give VPC access
-
-Step 3: Create a Lambda function which stores the data in the form of CSV on AWS S3
-
-Step 4: Create a redshift database to store the data
-
-Step 5: Write a copy command in the delivery stream configuration to copy the csv records from firehorse to redshift database
 
 
