@@ -36,7 +36,12 @@ https://docs.aws.amazon.com/firehose/latest/dev/controlling-access.html#using-ia
 https://medium.com/@siprem/streaming-twitter-feed-using-kinesis-data-firehose-and-redshift-745c96d04f58
 
 
-COPY wordcount(col1, col2, col3, col4)
-FROM 's3://<your-bucket-name>/load/file_name.csv'
+COPY wordcount(company,location,title,job_desc,role,core_tech_skills,comm_skills,network_skills)
+FROM 's3://hiring_trend_analysis/file_name.csv'
 credentials 'aws_access_key_id=<Your-Access-Key-ID>;aws_secret_access_key=<Your-Secret-Access-Key>'
 CSV;
+
+
+COPY company, location, title, job_desc, role, core_tech_skills, comm_skills, network_skills
+FROM 'https://hiringtrendanalysis.s3.amazonaws.com/jobs_categorized.csv' 
+CREDENTIALS 'aws_iam_role=arn:aws:iam::054928071109:role/aws-service-role/redshift.amazonaws.com/AWSServiceRoleForRedshift ;
