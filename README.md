@@ -3,6 +3,14 @@
 
 The project performs text analysis on various job openings in the IT industry and identifies the technical keywords in them. It computes the highly demanded technical skills in the industry by visually representing the data on Tableau
 
+![](images/hiringtrend.png)
+
+
+![](images/skillsets.png)
+
+
+![](images/wordcloud.png)
+
 ## Keywords extraction
 Identified 1000 tech keywords from PDFs by using the TF-IDF Algorithm to compute the frequencies of words in the document.
 
@@ -45,3 +53,4 @@ Step 3: Create a Lambda function which stores the data in the form of CSV on AWS
 Step 4: Create a redshift database to store the data
 
 Step 5: Write a copy command in the delivery stream configuration to copy the csv records from firehorse to redshift database
+
