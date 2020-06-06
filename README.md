@@ -5,7 +5,9 @@ The project performs text analysis on various job openings in the IT industry an
 
 ![](images/hiringtrend.png)
 
+
 ![](images/skillsets.png)
+
 
 ![](images/wordcloud.png)
 
