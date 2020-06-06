@@ -45,3 +45,5 @@ Step 3: Create a Lambda function which stores the data in the form of CSV on AWS
 Step 4: Create a redshift database to store the data
 
 Step 5: Write a copy command in the delivery stream configuration to copy the csv records from firehorse to redshift database
+
+![](images/hiringtrend.png)
